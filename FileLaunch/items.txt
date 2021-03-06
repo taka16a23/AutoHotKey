@@ -1,0 +1,5 @@
+InternetExplorer	iexplore
+kita	/c ·À„ª„ª„ª„ª(ßÍß)„ª„ª„ª„ª¯!!
+Edit this script	*notepad.exe %A_ScriptFullPath%
+C:\
+D:\
